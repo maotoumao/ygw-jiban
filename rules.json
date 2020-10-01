@@ -1,0 +1,134 @@
+[
+    {
+        "name": "春天在哪里",
+        "participants": [
+            "樱花妖",
+            "桃花妖"
+        ],
+        "value": 2
+    },
+    {
+        "name": "干了这杯酒",
+        "participants": [
+            "酒吞童子",
+            "茨木童子"
+        ],
+        "value": 4
+    },
+    {
+        "name": "锅蛙赛跑",
+        "participants": [
+            "山兔",
+            "孟婆"
+        ],
+        "value": 2
+    },
+    {
+        "name": "黑白无常",
+        "participants": [
+            "鬼使黑",
+            "鬼使白"
+        ],
+        "value": 2
+    },
+    {
+        "name": "欢喜叠叠乐",
+        "participants": [
+            "镰鼬",
+            "铁鼠"
+        ],
+        "value": 2
+    },
+    {
+        "name": "来自崇天高云",
+        "participants": [
+            "少羽大天狗",
+            "大天狗"
+        ],
+        "value": 4
+    }, 
+    {
+        "name": "老板您说",
+        "participants": [
+            "鬼使黑",
+            "鬼使白",
+            "阎魔"
+        ],
+        "value": 3
+    },
+    {
+        "name": "女孩当自强",
+        "participants":[
+            "白狼",
+            "妖刀姬",
+            "萤草"
+        ],
+        "value": 4
+    },
+    {
+        "name": "女子修炼组合",
+        "participants": [
+            "白狼",
+            "妖刀姬"
+        ],
+        "value": 3
+    },
+    {
+        "name": "三途川一日游",
+        "participants": [
+            "傀儡师",
+            "阎魔"
+        ],
+        "value": 3
+    }, 
+    {
+        "name": "诵经爱好者",
+        "participants": [
+            "独眼小僧",
+            "蝴蝶精"
+        ],
+        "value": 2
+    },
+    {
+        "name": "天邪鬼四",
+        "participants": [
+            "天邪鬼赤",
+            "天邪鬼黄",
+            "天邪鬼绿",
+            "天邪鬼青"
+        ],
+        "value": 2
+    },
+    {
+        "name": "为了大义",
+        "participants": [
+            "大天狗",
+            "雪女"
+        ],
+        "value": 3
+    },
+    {
+        "name": "我的偶像",
+        "participants": [
+            "萤草",
+            "白狼"
+        ],
+        "value": 2
+    },
+    {
+        "name": "养狗还是养猫",
+        "participants": [
+            "九命猫",
+            "犬神"
+        ],
+        "value": 2
+    },
+    {
+        "name": "捉蝴蝶的妖",
+        "participants":[
+            "蝴蝶精",
+            "巫蛊师"
+        ],
+        "value": 2
+    }
+]
